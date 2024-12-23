@@ -1,0 +1,4 @@
+name age sex work
+alice 21 f NW
+ryan 30 m W
+mary 45 f W
